@@ -1,0 +1,13 @@
+table{
+    border-color: crimson;
+    size-adjust: center;
+   
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
